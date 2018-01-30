@@ -1,4 +1,8 @@
-# Free-Images-Download-Websites
+# Free Images Download Websites
+
+> Many of these photographs are free from copyright restrictions or licensed under creative commons public domain dedication. This means > you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+> However, some photos may require attribution. We’ve done our best to identify which license they fall under but we still advise you to > do your own research and determine how these images can be used.
 
 ### 1. [pxhere](https://pxhere.com/en/)
 
@@ -46,24 +50,24 @@
 
 ### 23. [deathtothestockphoto](https://deathtothestockphoto.com/)
 
-## 24. [foodiesfeed](https://www.foodiesfeed.com/)
+### 24. [foodiesfeed](https://www.foodiesfeed.com/)
 
-## 25. [burst.shopify](https://burst.shopify.com/)
+### 25. [burst.shopify](https://burst.shopify.com/)
 
-## 26. [freestocks](https://freestocks.org/)
+### 26. [freestocks](https://freestocks.org/)
 
-## 27. [picography](https://picography.co/)
+### 27. [picography](https://picography.co/)
 
-## 28. [mmtstock](https://mmtstock.com/)
+### 28. [mmtstock](https://mmtstock.com/)
 
-## 29. [skitterphoto](https://skitterphoto.com/)
+### 29. [skitterphoto](https://skitterphoto.com/)
 
-## 30. [littlevisuals](http://littlevisuals.co/)
+### 30. [littlevisuals](http://littlevisuals.co/)
 
-## 31. [imcreator](http://imcreator.com/free)
+### 31. [imcreator](http://imcreator.com/free)
 
-## 32. [epicantus.tumblr](http://epicantus.tumblr.com/)
+### 32. [epicantus.tumblr](http://epicantus.tumblr.com/)
 
-## 33. [shotstash](https://shotstash.com/)
+### 33. [shotstash](https://shotstash.com/)
 
-## 34. [styledstock](https://styledstock.co/)
+### 34. [styledstock](https://styledstock.co/)
