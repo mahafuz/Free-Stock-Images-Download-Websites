@@ -1,4 +1,4 @@
-# Free Images Download Websites
+# Free Stock Images Download Websites
 
 > Many of these photographs are free from copyright restrictions or licensed under creative commons public domain dedication. This means > you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
