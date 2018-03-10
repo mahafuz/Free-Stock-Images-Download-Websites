@@ -2,7 +2,7 @@
 
 > Many of these photographs are free from copyright restrictions or licensed under creative commons public domain dedication. This means > you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-> However, some photos may require attribution. I’ve done our best to identify which license they fall under but we still advise you to > do your own research and determine how these images can be used.
+> However, some photos may require attribution. I’ve done my best to identify which license they fall under but I still advise you to > do your own research and determine how these images can be used.
 
 ### 1. [pxhere](https://pxhere.com/en/)
 
